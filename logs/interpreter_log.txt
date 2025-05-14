@@ -1,0 +1,33 @@
+2025-04-08 04:35:53, Emotion: angry, Sign: hello
+2025-04-08 04:36:07, Emotion: neutral, Sign: hello
+2025-04-08 04:38:47, Emotion: fear, Sign: hello
+2025-04-08 04:40:27, Emotion: angry, Sign: thank you
+2025-04-08 04:41:02, Emotion: surprised, Sign: hello
+2025-04-08 04:52:03, Emotion: happy, Sign: hello
+2025-04-08 04:52:14, Emotion: surprised, Sign: thank you
+2025-04-08 06:16:45, Emotion: surprised, Sign: hello
+2025-04-08 06:18:21, Emotion: angry, Sign: thank you
+2025-04-08 06:18:32, Emotion: happy, Sign: thank you
+2025-04-08 06:18:42, Emotion: surprised, Sign: hello
+2025-04-08 10:08:54, Emotion: happy, Sign: hello
+2025-04-08 10:09:03, Emotion: happy, Sign: thank you
+2025-04-08 10:09:12, Emotion: surprised, Sign: hello
+2025-04-08 10:10:13, Emotion: surprised, Sign: hello
+2025-04-08 10:10:22, Emotion: angry, Sign: hello
+2025-04-08 10:11:41, Emotion: surprised, Sign: hello
+2025-04-08 10:11:49, Emotion: happy, Sign: hello
+2025-04-08 10:12:31, Emotion: surprised, Sign: hello
+2025-04-08 10:12:40, Emotion: happy, Sign: thank you
+2025-04-08 10:13:12, Emotion: surprised, Sign: thank you
+2025-04-08 10:13:23, Emotion: surprised, Sign: hello
+2025-04-08 10:13:37, Emotion: happy, Sign: thank you
+2025-04-08 10:13:46, Emotion: happy, Sign: hello
+2025-04-08 13:10:01, Emotion: happy, Sign: hello
+2025-04-08 13:10:13, Emotion: happy, Sign: thank you
+2025-04-08 13:10:25, Emotion: angry, Sign: thank you
+2025-04-08 14:09:00, Emotion: surprised, Sign: hello
+2025-05-12 22:24:19, Emotion: surprised, Sign: hello
+2025-05-12 22:24:31, Emotion: neutral, Sign: hello
+2025-05-12 22:24:41, Emotion: surprised, Sign: thank you
+2025-05-12 22:25:48, Emotion: surprised, Sign: hello
+2025-05-12 22:26:01, Emotion: angry, Sign: hello
